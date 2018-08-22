@@ -10,7 +10,7 @@
 }
 
 ::selection {
-    background: #3D3DBE;
+    background: #008C9E;
     color: #a4003a;
     text-shadow: none;
 }
@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand {
-	color: #9E9E9E;
+	color: #7dd3de;
 }
 
 .navbar-default {
@@ -74,9 +74,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #4a4a4a;
+	color: #008C9E;
 	background-color: transparent;
-	border-bottom: 2px solid #3D3DBE;
+	border-bottom: 2px solid #008C9E;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #3D3DBE;
+	color: #7dd3de;
 }
 
 /* ==========================================================================
@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #headerwrap h4 {
 	font-weight: 400;
-	color: #ffffff
+	color: #ffffff;
 }
 
 #social {
@@ -135,11 +135,11 @@ h1, h2, h3, h4, h5, h6 {
 
 #social i {
 	font-size: 40px;
-	color: #4a4a4a
+	color: #4a4a4a;
 }
 
 #social i:hover {
-	color: #3D3DBE
+	color: #008C9E;
 }
 
 #footerwrap {
@@ -153,6 +153,9 @@ h1, h2, h3, h4, h5, h6 {
 	margin-left: 10px;
 }
 
+.fa fa-envelope {
+    color: #008C9E;
+}
 /*
 #workwrap {	
 	background: url(../img/work.jpg) no-repeat center top;
