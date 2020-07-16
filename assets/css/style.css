@@ -56,12 +56,14 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
-    color: #4a4a4a;
+    font-family: 'Quantico', sans-serif;
+    color: #000000;
 }
 
 
 .navbar-brand {
 	font-weight: 700;
+    font-family: 'Quantico', sans-serif;
 }
 
 .navbar-default .navbar-brand {
@@ -69,6 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default {
+    font-family: 'Quantico', sans-serif;
 	background-color: #1C1C1C;
 	border-color: transparent;
 }
@@ -93,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/abstract_2.jpg) no-repeat center top;
+	/* background: url(../img/abstract_2.jpg) no-repeat center top; */
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -149,6 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 #footerwrap {
 	padding-top: 70px;
 	padding-bottom: 50px;
+    font-family: 'Quantico', sans-serif;
 	background-color: #2f2f2f;
 }
 
